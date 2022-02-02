@@ -1,0 +1,2185 @@
+Kernel,Stats,Training Data,ANON Text,Classification
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_The_Merchant_of_Venice.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_The_Tempest.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Merchant_of_Venice.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Midsummer_Nights_Dream.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Twelfth_Night.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Henry_V.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Macbeth.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Hamlet.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Hamlet.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Macbeth.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Twelfth_Night.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Henry_V.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Midsummer_Nights_Dream.txt,Shakespeare
+rbf,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_The_Tempest.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_The_Merchant_of_Venice.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_The_Tempest.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Merchant_of_Venice.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Midsummer_Nights_Dream.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Twelfth_Night.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Henry_V.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Macbeth.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Hamlet.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Hamlet.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Macbeth.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Twelfth_Night.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Henry_V.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Midsummer_Nights_Dream.txt,Shakespeare
+linear,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_The_Tempest.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_The_Merchant_of_Venice.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_The_Tempest.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Merchant_of_Venice.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Midsummer_Nights_Dream.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Twelfth_Night.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Henry_V.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Macbeth.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Hamlet.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Hamlet.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Macbeth.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Twelfth_Night.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Henry_V.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Midsummer_Nights_Dream.txt,Shakespeare
+poly,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_The_Tempest.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_The_Merchant_of_Venice.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_The_Tempest.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Merchant_of_Venice.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Midsummer_Nights_Dream.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Twelfth_Night.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Henry_V.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Macbeth.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Hamlet.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Hamlet.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_Folger_Macbeth.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Twelfth_Night.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Henry_V.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_Midsummer_Nights_Dream.txt,Shakespeare
+sigmoid,"MFW: 1000 
+Culling: 0 
+Kernels: all 
+Chunks: 1","Chapman Caesar and Pompey.txt
+Chapman May Day.txt
+Chapman Monsieur Dolive.txt
+Chapman Sir Giles Goosecap.txt
+Chapman The Conspiracy of Charles Duke.txt
+Chapman The Revenge of Bussy Dambois.txt
+Heywood A Woman killed with Kindness.txt
+Heywood How a Man May Choose.txt
+Heywood If you know not Me One.txt
+Heywood The Iron Age One.txt
+Heywood The Rape of Lucrece.txt
+Heywood The Wise Woman of Hogsdon.txt
+Marston Antonio and Mellida.txt
+Marston Antonios Revenge.txt
+Marston Jack Drums Entertainment.txt
+Marston The Insatiate Countess.txt
+Marston The Wonder of Women.txt
+Marston What you Will.txt
+Middleton The Changeling.txt
+Middleton The Phoenix.txt
+Middleton The Puritan.txt
+Middleton The Revengers Tragedy.txt
+Middleton Women Beware Women.txt
+Middleton Your Five Gallants.txt
+Shakespeare Antony Cleopatra.txt
+Shakespeare Merchant of Venice.txt
+Shakespeare Midsummer Nights Dream.txt
+Shakespeare Othello.txt
+Shakespeare Romeo and Juliet.txt
+Shakespeare Twelfth Night.txt
+Shirley Loves Cruelty.txt
+Shirley The Bird in a Cage.txt
+Shirley The Brothers.txt
+Shirley The Constant Maid.txt
+Shirley The Maids Revenge.txt
+Shirley The Politician.txt",ANON_TCP_The_Tempest.txt,Shakespeare
